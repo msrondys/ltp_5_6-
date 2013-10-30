@@ -6,7 +6,7 @@ puts "So your favorite number is #{favorite_number}, that\'s cool. But have you 
 reply = gets.chomp
 puts "#{reply}, you say? But I'm sure #{new_fav} is most certainly the biggest, bestest favorite number in the world. Whaddya say?"
 reply_2 = gets.chomp
-puts "C\'mon, #{reply_2}.... Don't be closed minded, expand your horizons... #{new_fav}, #{new_fav}, #{new_fav}!"
+puts "C\'mon, #{reply_2}.... Expand your horizons... #{new_fav}, #{new_fav}, #{new_fav}!"
 
 
 
